@@ -5,10 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="register.css">
 </head>
 <body>
 <div class="login-box">
-  <h2>Login</h2>
+  <h2>register</h2>
   <form>
     <div class="user-box">
       <input type="text" name="" required="">
